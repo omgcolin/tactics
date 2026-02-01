@@ -1,6 +1,6 @@
 # Tactics
 
-A complete React-based tactics game built with TypeScript, featuring level progression, music system, and persistent save states.
+A complete React-based tactics game built with TypeScript, featuring level progression, music system, and persistent save states. Play now at: https://tacticsfinal.netlify.app/
 
 ## 🎮 Game Features
 
